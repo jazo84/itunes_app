@@ -1,0 +1,2 @@
+export POSTGRES_USER=jon
+export POSTGRES_PASSWORD=mypassword

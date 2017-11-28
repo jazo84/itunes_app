@@ -1,0 +1,23 @@
+{
+  "name": "itunes_app",
+  "version": "1.0.0",
+  "description": "Command Line Tool - itunes",
+  "main": "iTunes_App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazo84/itunes_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazo84/itunes_app/issues"
+  },
+  "homepage": "https://github.com/jazo84/itunes_app#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "pg": "^7.4.0"
+  }
+}
